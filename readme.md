@@ -1,5 +1,3 @@
-Sure, here is the updated version:
-
 # ANMOL DUDANI
 
 ## Contact Information
