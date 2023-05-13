@@ -113,6 +113,6 @@ Intern -- Worked in Machine Learning and Data Science Team for R&D Management En
 
 ## Interests
 
-- Books: I enjoy reading books on various topics including technology, psychology, and history.
+- Books: I enjoy reading books on various topics including technology, psychology, and fantasy.
 - Reading: I love to read and stay updated on the latest research and advancements in the field of technology.
 - Research: I have a keen interest in researching various topics related to AI, machine learning, and data science.
