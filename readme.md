@@ -2,6 +2,7 @@
 
 ## Contact Information
 
+- Address: E-117, Bank Colony, Murlipura Jaipur, 302039
 - Email: jaeckanaquth@gmail.com
 
 ## Education
@@ -31,49 +32,81 @@
 - Created a workspace set up for individuals working from home where all the work done by an employee is done inside the workspace under company control.
 - Assisted in easy monitoring of the employees without the restriction of physical location, access to their work status as well as the security of data that stays in the company network and improved work efficiency by 20%.
 
-### Internship
+### Projects
 
-#### Data Science Intern, Reliance Industries Ltd. (June 2019 – May 2020)
+#### Implementation of Automatic Numberplate Recognition
 
-- A Reliance company with an annual turnover of US$270 billion and 236,000 employees.
-- Worked in ML and Data Science Team for R&D Management Enterprise under SAP; Created machine learning models for forecasting and prediction of supply and demand in different regions of the country.
-- Worked with various libraries and packages in the Python ecosystem such as Pandas, NumPy, Scikit-learn, and Matplotlib for data preprocessing, feature engineering, model training, and evaluation.
-- Conducted statistical analysis and exploratory data analysis to understand data patterns and identify key factors affecting supply and demand.
-- Developed a predictive model to forecast demand for petroleum products in various regions of India, which led to a 10% improvement in supply chain management.
-- Created data visualizations to effectively communicate insights and recommendations to senior management.
-- Worked in a team of 5 and participated in weekly meetings to discuss progress, challenges, and future goals.
+- Built a customized version of ANPR coding using the numberplate recognition function of the original object detector and using a custom script for Indian truck numberplates which are not native to the project.
+- Developed a socket programming for use on all Reliance locations.
+- Improved the speed for detection under the R&D.
 
-## Technical Skills
+#### Implementation of the full Architecture of ELK
 
-- Programming Languages: Python, SQL
-- Big Data Technologies: Apache Spark, Hadoop
-- Cloud Computing Platforms: AWS, Google Cloud Platform
-- Data Warehousing: Amazon Redshift
-- Data Visualization: Tableau, Power BI
-- Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
+- Put the full architecture of Elasticsearch, Logstash and Kibana under R&D and implemented it for SAP.
+- Created dataflow for logs and metrics ingestion and created dashboards in Kibana for monitoring and visualizing the data.
+- Built a custom pipeline in Logstash for parsing and enriching the logs before indexing into Elasticsearch.
+- Implemented Elasticsearch cluster with multiple nodes and created replicas for high availability and fault tolerance.
+- Configured Elasticsearch indices with proper mappings and settings to optimize the search and aggregation performance.
+- Used Elasticsearch query DSL for searching and filtering the data and created custom aggregations to generate reports.
+- Built custom visualizations in Kibana using the Vega visualization language to create charts and graphs for various metrics.
+- Created alerts and notifications in Elasticsearch Watcher to monitor critical events and notify the concerned stakeholders.
 
-## Certifications
+#### Data Analysis and Visualization using Python
 
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Developer – Associate
-- Google Cloud Certified – Associate Cloud Engineer
+- Analyzed a dataset of online retail transactions using Python and various data analysis libraries such as pandas, NumPy, and Matplotlib.
+- Cleaned and preprocessed the data by handling missing values, data type conversions, and normalization.
+- Conducted exploratory data analysis (EDA) to understand the patterns and trends in the data and used statistical methods to test the hypotheses.
+- Created interactive visualizations using the Plotly library to display the insights obtained from EDA.
+- Built a predictive model using the scikit-learn library to forecast the sales for the next quarter and evaluated the model's performance using various metrics.
 
-## Projects
+#### Implementation of Automatic Number Plate Recognition (ANPR)
 
-### Predicting Churn Rate for a Telecom Company
+- Developed a customized version of ANPR system using the number plate recognition function of the original object detector and a custom script for Indian truck number plates which are not native to the project.
+- Implemented the ANPR system using a deep learning framework called YOLOv4 and trained the model on a large dataset of license plate images.
+- Optimized the model's performance by tuning the hyperparameters and using data augmentation techniques.
+- Integrated the ANPR system with a socket programming for use in all Reliance locations.
+- Improved the speed of detection and recognition under R&D.
 
-- Developed a machine learning model to predict customer churn for a telecom company using customer demographic and usage data.
-- Used a Random Forest classifier and achieved an accuracy of 85%.
-- Created data visualizations to identify key factors affecting customer churn and presented recommendations to improve customer retention.
+#### Certifications
 
-### Customer Segmentation for a Retail Company
+- IBM Applied AI (10/2020)
+- Diploma in Japanese Language (09/2019)
+- Python for Data Science and AI (09/2020)
 
-- Conducted a customer segmentation analysis for a retail company using transaction data and demographic information.
-- Used K-means clustering and Principal Component Analysis (PCA) for dimensionality reduction.
-- Identified key customer segments and created data visualizations to effectively communicate insights to the marketing team.
+## Skills
 
-## Personal Interests
+- Programming Languages: Python, SQL, Java, C++
+- Big Data Technologies: Elasticsearch, Logstash, Kibana, Hadoop, Spark
+- Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras
+- Cloud Platforms: AWS, Google Cloud, Microsoft Azure
+- Databases: MySQL, PostgreSQL, MongoDB
+- Operating Systems: Linux, Windows
+- Tools: Git, Jupyter Notebook, Docker, Jenkins, Ansible
 
+<<<<<<< Updated upstream:readme.md
 - Reading about new technologies and advancements in the field of AI and ML.
 - Playing video games and chess in my free time.
 - Volunteering at local NGOs to provide education to underprivileged children.
+=======
+## Personal Projects
+
+#### Sentiment Analysis of Movie Reviews
+
+- Built a machine learning model to classify the sentiment of movie reviews as positive, negative, or neutral using the IMDB dataset.
+- Preprocessed the text data by removing stop words, stemming, and tokenizing the words.
+- Trained the model using a deep learning framework called Keras with a recurrent neural network (RNN) architecture.
+- Achieved an accuracy of 85% on the test set and visualized the results using confusion matrix and classification report.
+
+#### Automated Stock Trading System
+
+- Developed a system for automated trading of stocks using Python and Alpaca API.
+- Integrated the system with real-time stock data using web scraping techniques and Alpaca API.
+- Built a predictive model using machine learning to forecast the future prices of stocks.
+- Used the model's predictions to buy and sell stocks automatically with proper risk management techniques.
+- Achieved an average return of 10% per month and reduced the risk of loss using stop-loss and take-profit orders.
+
+## Interests
+
+- Machine Learning, Deep Learning, Natural Language Processing
+- Data Science, Data Analysis
+>>>>>>> Stashed changes:resume.md
