@@ -2,7 +2,6 @@
 
 ## Contact Information
 
-- Address: E-117, Bank Colony, Murlipura Jaipur, 302039
 - Email: jaeckanaquth@gmail.com
 
 ## Education
@@ -12,13 +11,23 @@
 
 ## Professional Experience
 
-### Data Engineer, Drishya AI Labs (September 2020 – Present)
+### Sr. Data Scientist, Drishya AI Labs (September 2020 – Present)
 
-- An IT company dealing with creating Oil and Gas AI with an employee strength of 40.
+- An IT company dealing with creating Oil and Gas AI with an employee strength of 30.
 - Driving growth and innovation for the company with 2 core products -- Brains and Artisan. Brains is an AI product that finds intelligence from data while Artisan is an AI product that finds intelligence from images.
 - Coordinating the adoption of standardization of policies and resources to prevent fluctuations or anomalies in the infrastructure of the company and predict the growth of the company and estimate for a new project.
 - Initiating and managing digital platforms for the company and good architecture review by endorsing best practices and enforcing policies and security regulations by supplementing tools to aid and guide developers.
 - Streamlining the maintenance, testing, and designing of infrastructure resources in the company; Reviewing and remodeling the company’s existing budget and technology.
+
+### Intern Data Scientist, Reliance Industries Limited (06/2019 - 05/2020)
+Intern -- Worked in Machine Learning and Data Science Team for R&D Management Enterprise under SAP
+
+- Worked on a project to predict equipment failure using machine learning algorithms and data analysis tools.
+- Conducted data cleaning, preprocessing, and feature engineering on large datasets using Python and SQL.
+- Built predictive models using algorithms such as Random Forest, Gradient Boosting, and Neural Networks.
+- Used data visualization tools such as Tableau to present insights and results to management.
+- Worked in a team environment to develop and improve the existing ML models.
+- Contributed to the development of an end-to-end pipeline for data ingestion, processing, modeling, and deployment.
 
 #### Achievements
 
@@ -83,30 +92,27 @@
 - Operating Systems: Linux, Windows
 - Tools: Git, Jupyter Notebook, Docker, Jenkins, Ansible
 
-<<<<<<< Updated upstream:readme.md
-- Reading about new technologies and advancements in the field of AI and ML.
-- Playing video games and chess in my free time.
-- Volunteering at local NGOs to provide education to underprivileged children.
-=======
-## Personal Projects
+### Personal Projects
 
-#### Sentiment Analysis of Movie Reviews
+#### Stock Trading System
 
-- Built a machine learning model to classify the sentiment of movie reviews as positive, negative, or neutral using the IMDB dataset.
-- Preprocessed the text data by removing stop words, stemming, and tokenizing the words.
-- Trained the model using a deep learning framework called Keras with a recurrent neural network (RNN) architecture.
-- Achieved an accuracy of 85% on the test set and visualized the results using confusion matrix and classification report.
+- Built a stock trading system using Python and Robinhood API that utilizes technical analysis to generate trading signals and execute trades automatically. 
+- Implemented backtesting to validate the effectiveness of the trading strategies.
+- Currently running live on a personal trading account with consistent returns.
 
-#### Automated Stock Trading System
+#### Stock Screening
 
-- Developed a system for automated trading of stocks using Python and Alpaca API.
-- Integrated the system with real-time stock data using web scraping techniques and Alpaca API.
-- Built a predictive model using machine learning to forecast the future prices of stocks.
-- Used the model's predictions to buy and sell stocks automatically with proper risk management techniques.
-- Achieved an average return of 10% per month and reduced the risk of loss using stop-loss and take-profit orders.
+- Created a stock screening tool using Python and financial data APIs to analyze and filter stocks based on a set of fundamental and technical indicators.
+- Implemented various screening strategies such as value investing, growth investing, and momentum investing.
+- Improved screening efficiency by optimizing data retrieval and processing.
+
+#### Automated Posting on Instagram
+
+- Developed a Python script using the Instagram API to automatically post pre-defined images and captions to a personal Instagram account at regular intervals.
+- Integrated image processing and scheduling capabilities to automate the posting process.
 
 ## Interests
 
-- Machine Learning, Deep Learning, Natural Language Processing
-- Data Science, Data Analysis
->>>>>>> Stashed changes:resume.md
+- Books: I enjoy reading books on various topics including technology, psychology, and history.
+- Reading: I love to read and stay updated on the latest research and advancements in the field of technology.
+- Research: I have a keen interest in researching various topics related to AI, machine learning, and data science.
