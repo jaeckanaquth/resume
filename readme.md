@@ -4,6 +4,9 @@
 
 - Email: jaeckanaquth@gmail.com
 
+## Summary
+Motivated, teamwork-oriented and responsible Data Scientist with 3+ years of experience in the field, including 2 years while pursuing a Master's degree specialized in Big Data. Highly educated with a Master's degree in Big Data, Bachelor's degree, and other certificates geared towards Data Science and Machine Learning.
+
 ## Education
 
 - M.Tech. Vellore Institute of Technology, Vellore (CGPA – 8.67/10) June 2020
@@ -40,6 +43,22 @@ Intern -- Worked in Machine Learning and Data Science Team for R&D Management En
 - Studied virtual private networks that address the challenge of resources being able to remain secure and inside company space which can access the internet and communicate with the internet as well as each other.
 - Created a workspace set up for individuals working from home where all the work done by an employee is done inside the workspace under company control.
 - Assisted in easy monitoring of the employees without the restriction of physical location, access to their work status as well as the security of data that stays in the company network and improved work efficiency by 20%.
+
+### Papers
+
+#### Publications
+
+- Awarded best paper in ICSET 2018, VIT: A Novel Framework to Detect Suspicious Packages Using Object Detection Techniques. Published in innovation-journals: http://innovation-journals.org/ece_10vi1-9.pdf
+- Iterative Parameterized Consensus Approach for Clustering and Visualization of Crime Analysis. Published in ICIMMI 2019: https://link.springer.com/chapter/10.1007/978-981-15-4936-6_20
+- Sentiment Analysis on Kerala Floods. Published in ICICC 2019: https://link.springer.com/chapter/10.1007/978-981-15-1286-5_10
+- Abstract of "A Review of Major Viruses That Attacked Nuclear Facilities in The Last Decade" was published in RRESG 2017.
+
+#### Description of Papers
+
+- Awarded best paper in ICSET 2018, VIT: This paper presents a novel framework to detect suspicious packages using object detection techniques. The proposed framework uses a deep learning-based object detection algorithm to classify the packages and identify any suspicious behavior or contents. The paper was published in innovation-journals and awarded the best paper in ICSET 2018, VIT.
+- Iterative Parameterized Consensus Approach for Clustering and Visualization of Crime Analysis: This paper proposes an iterative parameterized consensus approach to cluster and visualize crime data. The proposed approach uses a clustering algorithm and a visualization technique to group similar crime incidents and represent them in a 2D plot. The paper was published in ICIMMI 2019.
+- Sentiment Analysis on Kerala Floods: This paper presents a sentiment analysis study on the social media data related to the Kerala floods. The study aims to analyze the public opinion and emotional response towards the disaster. The paper was published in ICICC 2019.
+- Abstract of "A Review of Major Viruses That Attacked Nuclear Facilities in The Last Decade": This paper provides an abstract of a review of major viruses that attacked nuclear facilities in the last decade. The review discusses the characteristics and impacts of the viruses on the nuclear facilities. The abstract was published in RRESG 2017.
 
 ### Projects
 
