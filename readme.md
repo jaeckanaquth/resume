@@ -25,6 +25,7 @@ Motivated, teamwork-oriented and responsible Data Scientist with 3+ years of exp
 ### Intern Data Scientist, Reliance Industries Limited (06/2019 - 05/2020)
 Intern -- Worked in Machine Learning and Data Science Team for R&D Management Enterprise under SAP
 
+- Received R-Samman from the team IT- Strategy Architecture & Engineering, May 2020
 - Worked on a project to predict equipment failure using machine learning algorithms and data analysis tools.
 - Conducted data cleaning, preprocessing, and feature engineering on large datasets using Python and SQL.
 - Built predictive models using algorithms such as Random Forest, Gradient Boosting, and Neural Networks.
